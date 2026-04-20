@@ -27,5 +27,5 @@ Persona.ai is a professional-grade React application designed to help developers
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/aswinwizard81/ENDTERM-PROJECT-REACT-PersonaAi
    cd ai-persona
